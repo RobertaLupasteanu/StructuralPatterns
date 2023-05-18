@@ -1,0 +1,8 @@
+Pentru dezvoltarea unui joc online (cu supereroi) sa se dezvolte o solutie software in care
+
+1. Comportamentul caracterului este influentat
+de stare lui
+- daca acesta este ranit miscarile sunt afectate
+- daca este afectat de actiunile magice ale celorlalte
+ caractere, actiunile acestuia (modul in care ataca,
+  se apara) sunt afectate
